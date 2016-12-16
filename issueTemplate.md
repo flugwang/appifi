@@ -1,10 +1,10 @@
-### Expected behavior
+### Expected behavior and actual behavior.
 
 
-### Actural behavior
+### Steps to reproduce the problem.
 
 
-### Steps to reproduce the behavior
 
+### Specifications like the version of the project, operating system, or hardware.
 
 
